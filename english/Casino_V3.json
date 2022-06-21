@@ -1,7 +1,7 @@
 {
 "Language": "English",
 "script": "Casino V.3.0",
-"version": "3.0.1",
+"version": "3.1",
 "changelog": "- Patch : \n^3Problem with blips job after waiting 5-10 min \n - Add Create Core \n change drawmarker spawn and function",
 "link": " https://kamdev.tebex.io/"
 }
